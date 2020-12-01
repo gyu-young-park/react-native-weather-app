@@ -43,7 +43,7 @@ const Temperature = Styled.Text`
 
 interface Props {}
 
-const API_KEY = '579c1c6f87ef10ec9fcfe05d930550cc'
+const API_KEY = 'YOUR_KEY'
 
 interface IWeather {
     temperature? : number;
